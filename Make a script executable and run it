@@ -1,0 +1,2 @@
+chmod +x 21_check_armstrong_number.sh
+./21_check_armstrong_number.sh
