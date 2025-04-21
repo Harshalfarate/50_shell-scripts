@@ -17,4 +17,4 @@ These scripts cover topics like:
    ```bash
    git clone https://github.com/your-username/50-linux-shell-scripts.git
    cd 50-linux-shell-scripts
-2.Use this file
+2.Use this file **Make a script executable and run it**
